@@ -1,10 +1,10 @@
-Hyperlocal-UrbanElite 🏙️✨
+Hyperlocal-UrbanElite 
 A Next-Generation Hyperlocal Service Platform
 Revolutionizing urban living through cutting-edge technology and premium service delivery for the modern city dweller.
-🌟 Overview
+Overview
 Hyperlocal-UrbanElite is an innovative platform that connects urban professionals with premium local services in their immediate vicinity. Built with a modern tech stack (React, Node.js, Express, MongoDB), our platform is designed to bring futuristic convenience and elite service quality directly to city dwellers' doorsteps.
 Whether you need home services, professional assistance, or lifestyle amenities, UrbanElite curates and delivers only the highest quality service providers in your neighborhood.
-🚀 Features
+ Features
 Core Functionality
 
 Hyperlocal Service Discovery - Find premium services within your immediate neighborhood
@@ -21,7 +21,7 @@ Live Service Tracking - Real-time updates on service provider arrival and progre
 Quality Assurance System - Comprehensive rating and review ecosystem
 Membership Tiers - Exclusive benefits for frequent users
 
-🛠️ Tech Stack
+ Tech Stack
 Frontend
 
 React 18+ - Modern component-based UI development
@@ -47,7 +47,7 @@ Cloudinary - Image and video management
 Stripe - Payment processing integration
 SendGrid - Transactional email service
 
-📋 Prerequisites
+ Prerequisites
 Before running UrbanElite locally, ensure you have:
 
 Node.js (v16.0.0 or higher)
@@ -55,7 +55,7 @@ npm or yarn package manager
 MongoDB (local installation or Atlas connection)
 Git for version control
 
-⚡ Quick Start
+ Quick Start
 1. Clone the Repository
 bashgit clone https://github.com/Aadesh1106/Hyperlocal-UrbanElite.git
 cd Hyperlocal-UrbanElite
@@ -100,7 +100,7 @@ npm run dev
 # Start frontend development server (from frontend directory)
 npm start
 Visit http://localhost:3000 to access the application.
-📚 API Documentation
+ API Documentation
 Authentication Endpoints
 
 POST /api/auth/register - User registration
@@ -122,7 +122,7 @@ GET /api/bookings - Get user bookings
 PUT /api/bookings/:id - Update booking status
 DELETE /api/bookings/:id - Cancel booking
 
-🧪 Testing
+ Testing
 bash# Run backend tests
 cd backend
 npm test
@@ -133,7 +133,7 @@ npm test
 
 # Run end-to-end tests
 npm run test:e2e
-🚀 Deployment
+ Deployment
 Production Build
 bash# Build frontend for production
 cd frontend
@@ -162,9 +162,9 @@ Write tests for new features
 Update documentation as needed
 
 Please ensure your code follows our coding standards and includes appropriate tests.
-📄 License
+ License
 This project is licensed under the MIT License - see the LICENSE file for details.
-🆘 Support
+ Support
 For support and questions:
 
 Email: aadesh1106@gmail.com
